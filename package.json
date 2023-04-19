@@ -1,0 +1,22 @@
+{
+  "name": "avaliacao-api",
+  "version": "1.0.0",
+  "description": "Uma API de avaliação de alunos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronan-Leticia/avaliacao-api.git"
+  },
+  "author": "Ronan Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronan-Leticia/avaliacao-api/issues"
+  },
+  "homepage": "https://github.com/Ronan-Leticia/avaliacao-api#readme",
+  "dependencies": {
+    "fastify": "^4.15.0"
+  }
+}
