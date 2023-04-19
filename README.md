@@ -1,2 +1,2 @@
-# avaliacao-api
+# avaliação-api
 API avaliação de alunos
